@@ -1,10 +1,10 @@
-# Devcamp Portfolio Application
+# README test push to github
 
-> This is a Ruby on Rails 5 Application that allows users to create their own portfolios.
+> This is a Ruby on Rails 5 application that allows users to create their own portfolios.
 
 ### Features
 
-- Real time chat engine for comments 
+- Real time chat engine for comments
 - Blog
 - Portfolio
 - Drag and drop interface
