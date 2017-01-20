@@ -58,4 +58,3 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 
 gem 'ting_view_tool', '~> 0.1.0'
 gem 'petergate', '~> 1.7'
-gem 'blogit', '~> 1.1', '>= 1.1.1'
